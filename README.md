@@ -52,14 +52,7 @@ For more information about text-to-speech using the OpenAI API, check out our [d
    POSTGRES_URL="postgresql://username:password@host:port/database_name"
    ```
 
-   This step is not needed to run the application and only affects the sharing feature.
-
-6. **Run the app:**
-
-   ```bash
-   npm run dev
-   ```
-
+   This step is not needed to run the application and only
    The app will be available at [`http://localhost:3000`](http://localhost:3000).
 
 > [!NOTE]  
